@@ -1,0 +1,42 @@
+body {
+    background-image: url(https://wallpaperboat.com/wp-content/uploads/2020/06/12/45172/into-the-spider-verse-13.jpg);
+    background-position: center;
+}
+.bg-primary {
+    background-color: #00000063 !important;
+    border-radius: 10px;
+    border: 2px solid red !important;
+    box-shadow: 1px 1px 20px black;
+}
+.bg-secondary {
+    background-color: #00000078 !important;
+    border-radius: 10px;
+    border: 2px solid red !important;
+    box-shadow: 1px 1px 20px black;
+}
+h1,h2,h3,h4,h5,h6,p {
+    text-shadow: 1px 1px 8px black;
+    color: white;
+    opacity: 1 !important;
+}
+p {
+    font-size: large;
+}
+h1,h2,h3,h4,h5,h6 {
+    font-size: 250%;
+}
+#pre {
+    text-align: center;
+    font-size: 90%;
+}
+#router {
+    position: relative;
+    width: 3%;
+    left: 5px;
+}
+#cum {
+    width: 10%;
+}
+#corazon {
+    color: red;
+}
